@@ -1,0 +1,7 @@
+# Entorno: solo la plantilla se versiona
+.env
+.env.*
+!.env.example
+
+node_modules/
+*.log
